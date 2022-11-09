@@ -1,5 +1,5 @@
-let longitude = "1.360321";
-let latitude = "103.846733";
+let longitude = "6.4474";
+let latitude = "3.3903";
 
 function loadSite () {
   if (navigator.geolocation) { // device can return its location
